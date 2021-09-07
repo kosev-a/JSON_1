@@ -1,0 +1,13 @@
+[
+	{
+		"id_product": 100,
+		"product_name": "backpack",
+		"price": 300,
+		"description": ["Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi."]
+	},{
+		"id_product": 100,
+		"product_name": "backpack",
+		"price": 300,
+		"description": ["Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi."]
+	}
+]
