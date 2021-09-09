@@ -1,1 +1,33 @@
-
+[
+	{
+		"id_product": 100,
+		"product_name": "backpack",
+		"price": 300,
+		"description": ["Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi."]
+	},{
+		"id_product": 109,
+		"product_name": "women's shoes",
+		"price": 300,
+		"description": ["Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas at nesciunt officiis qui animi voluptatem."]
+	},{
+		"id_product": 102,
+		"product_name": "shorts",
+		"price": 250,
+		"description": ["Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas at nesciunt officiis."]
+	},{
+		"id_product": 103,
+		"product_name": "T-shirt",
+		"price": 200,
+		"description": ["Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas at nesciunt officiis qui animi voluptatem."]
+	},{
+		"id_product": 110,
+		"product_name": "women's jacket",
+		"price": 350,
+		"description": ["Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas at nesciunt officiis qui animi voluptatem."]
+	},{
+		"id_product": 111,
+		"product_name": "shirt",
+		"price": 150,
+		"description": ["Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas at nesciunt."]
+	}
+]
